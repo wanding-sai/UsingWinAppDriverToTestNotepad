@@ -19,3 +19,7 @@ README是我写的
 配置NLog
 添加截图
 添加视频录制功能
+
+
+注： 在开始之前先打开开发者选项
+打开方法：settings-》update&security-》for developers-》developer Mode
